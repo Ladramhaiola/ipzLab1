@@ -6,3 +6,5 @@ _some updated text_
 1. python.py
 2. foldertest -> something.txt
 3. test.txt
+
+_so the laba seems to be done_
